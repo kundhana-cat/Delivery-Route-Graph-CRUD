@@ -11,7 +11,7 @@ ________________________________________
 
 ●	Kundhana – Section 5
 
-●	Rakshitha – Section 5
+●	Rakshitha - Section 5
 
 ________________________________________
 🎯 Problem Statement:
