@@ -172,8 +172,8 @@ Delivery-Route-Graph-CRUD/
 src/
   main.c
 
-docs/
-  project_report.pdf
+project report/
+  IEEE.report.mg.png
 
 ppt/
   presentation.pptx
