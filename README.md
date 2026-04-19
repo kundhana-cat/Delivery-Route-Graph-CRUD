@@ -181,3 +181,89 @@ ppt/
 README.md
 
 sample_output.txt
+
+________________________________________
+
+
+
+How we build the project together:
+
+Steps:
+
+
+Go to our repository
+
+
+Click Settings
+
+
+Click Collaborators & teams
+
+
+Click Add people
+
+
+Enter username/email
+
+
+Choose permission:
+
+
+Read
+
+Write
+
+Admin
+
+Click Invite
+
+
+
+👉 Once our team met accept, they become a contributor
+
+
+
+
+
+
+
+
+________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ~Screenshots:
+
+
+<img width="551" height="724" alt="Screenshot 2026-04-19 182745" src="https://github.com/user-attachments/assets/29bae08f-5d0a-4287-a2ae-167f44ee20ea" />
+
+
+
+
+
+
+
+<img width="552" height="429" alt="Screenshot 2026-04-19 182812" src="https://github.com/user-attachments/assets/02e54cf5-2790-41ea-a119-883ea578cddc" />
+
+
+
+<img width="563" height="438" alt="Screenshot 2026-04-19 182823" src="https://github.com/user-attachments/assets/83e92f5a-a9b1-4561-bf23-043c69a9dcc9" />
+
+
+
