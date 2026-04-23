@@ -140,30 +140,8 @@ gcc main.c -o project
 Run the program:
 ./project
 ________________________________________
-📄 Sample Output:
 
 
---- Package Delivery Route System ---
-
-1. Add Location
-2. Add Route
-3. Delete Route
-4. Update Route
-5. Search Route
-6. Display Routes
-7. Exit
-
-Enter choice: 1
-Enter location name: Chennai
-Location added successfully
-
-Enter choice: 2
-Enter source location: Chennai
-Enter destination location: Bangalore
-Enter distance: 350
-
-Route added successfully
-________________________________________
 📂 Project Structure
 
 
